@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-En construccion! importante
+
 
 ## 📫 Puedes encontrarme aqui:
 
@@ -40,3 +40,6 @@ En construccion! importante
 <a href="https://github.com/bellita85"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-2f363d.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="mailto:bellagarcia1985@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://twitter.com/BeGaVi1234"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+
+<hr/>
+Importante, seguimos en construción.....
