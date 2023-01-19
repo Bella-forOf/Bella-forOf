@@ -1,10 +1,10 @@
-## Hola, mi nombre es Bella Garcia Villegas Web Developer.  👋
-##### Y os aseguro que mi personalidad es igual de original que mi nombre. Sigue leyendo.... 
-Mi foto de portada es algo personal a la vez que importante. Os presento mi lugar de trabajo, donde desde hace unos casi un año paso la mayor parte de mi tiempo. 
+## Hola, mi nombre es Bella Garcia Villegas Web Developer. 👋
+
+##### Y os aseguro que mi personalidad es igual de original que mi nombre. Sigue leyendo....
+
+Mi foto de portada es algo personal a la vez que importante. Os presento mi lugar de trabajo, donde desde hace unos casi un año paso la mayor parte de mi tiempo.
 
 imagen de pantalla1
-
-
 
 <!--
 **bellita85/bellita85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-En construccion!
+
+En construccion! importante
