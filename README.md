@@ -12,7 +12,7 @@
 ![SASS](https://img.shields.io/badge/SASS-%234254a5?logo=SASS&logoColor=white)
 
 Me gustaria darle un toque diferente a mi Readme y enseñar una foto de portada es algo personal a la vez que importante. Os presento mi lugar de trabajo, donde desde hace unos casi un año paso la mayor parte de mi tiempo.
-
+<!-- <img width="260" height="260" src="/img/escritorio.jpeg"></img> -->
 ![escritorio](/img/escritorio.jpeg )
 
 
